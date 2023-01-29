@@ -4,6 +4,11 @@ numpy
 dvc
 seaborn
 matplotlib
+pyYAML
+python-box==6.0.2
+tqdm
+ensure==1.0.2
+joblib
 -e .
 
 
